@@ -20,6 +20,17 @@ On the international stage, the way national issues are portrayed can invite cri
 The intersection of national control and international criticism highlights the tension between maintaining sovereignty over a country’s narrative and participating in the global information network. While some nations view tight control over their media as necessary for stability, international observers often see it as a sign of repression or authoritarianism. As technology facilitates the rapid spread of information across borders, countries increasingly face the challenge of controlling national narratives while managing international perceptions and criticism, a balance that can be difficult to maintain without undermining either domestic legitimacy or international standing.
 
 #
+### Fake Trump News
+
+![Trump](https://github.com/user-attachments/assets/03ffb548-945b-46d5-9226-add16d2693e4)
+
+Donald Trump’s presidency and post-presidential activities have been marked by his combative stance towards the media, frequently labeling stories and outlets he disapproves of as “Fake News.” This rhetoric has had a polarizing effect, intensifying distrust in traditional media among his supporters while sparking debates on the role and responsibility of the press. Trump’s allegations have often targeted critical coverage, suggesting that mainstream media sources deliberately distort information to undermine him and his political agenda.
+
+In a surprising twist, Trump himself has been accused of contributing to misinformation, most notably when he claimed that there had been an attempted shooting at one of his rallies. This statement, which was later proven to be false, was widely condemned as an irresponsible attempt to manipulate public perception and garner sympathy. Critics argue that such actions illustrate a willingness to create “fake news” scenarios that serve his narrative, blurring the lines between fact and fiction in political discourse.
+
+The incident highlights the paradox in Trump’s approach: while he decries “fake news” as a major societal problem, his own propagation of false information undermines the credibility of his claims. This tactic not only deepens existing divisions but also complicates efforts to maintain an informed public. It raises questions about the ethical implications of political communication and the impact of such strategies on democratic processes.
+
+#
 ### Sourceduty News
 
 ![Sourceduty AI News](https://github.com/user-attachments/assets/64e5ef08-6a50-4be8-b362-378b2c4a2e89)
