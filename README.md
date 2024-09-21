@@ -1,4 +1,4 @@
-![News](https://github.com/user-attachments/assets/180b8d9e-7283-4e20-817c-6c28e09fddc6)
+![News](https://github.com/user-attachments/assets/7c2c6e8d-f3c2-41d8-b675-4b51b47ca4f6)
 
 > Updates from sources recording changes across the world.
 
