@@ -1,4 +1,4 @@
-![News](https://github.com/user-attachments/assets/370af976-9db2-4591-9d2e-a806904fca14)
+![International](https://github.com/user-attachments/assets/759ce594-f1c5-4eab-b702-7fb108b5827f)
 
 > Updates from sources recording changes across the world.
 
@@ -42,6 +42,10 @@ Sourceduty News is a specialized information hub focused on delivering the lates
 #
 
 ![AI](https://github.com/user-attachments/assets/b0b2713d-9e20-4629-a729-f50d8ce49129)
+
+#
+
+![Hughes](https://github.com/user-attachments/assets/564ae254-76ff-4659-9c91-d7c71c383377)
 
 #
 ### Related Links
