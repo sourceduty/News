@@ -13,6 +13,8 @@ News can be sourced from various mediums, each with its own strengths and audien
 #
 ### News Security
 
+![International](https://github.com/user-attachments/assets/1ebb7bda-a0e6-491b-aeb9-f35e47bc4e93)
+
 The security and control of national news are critical in managing the narrative within a country's borders, especially when it comes to sensitive issues like national security, political stability, and social unrest. Governments often exert control over national media through regulatory bodies, censorship, or state-owned news outlets to ensure that the flow of information aligns with national interests. This control can be justified as a means of protecting citizens from disinformation or threats, but it also raises concerns about the suppression of free speech and the public’s right to know. Tight control over national news can lead to a lack of transparency and hinder accountability within government institutions.
 
 On the international stage, the way national issues are portrayed can invite criticism from other countries and global organizations, especially when national problems such as corruption, human rights violations, or environmental concerns are either downplayed or manipulated in domestic media. International news agencies and foreign governments may scrutinize a nation’s handling of sensitive topics, leading to diplomatic tension. In such cases, attempts to control national news can backfire, as suppressed stories often find their way to international audiences through alternative channels, such as social media or foreign news outlets, sparking broader global debates and criticism.
