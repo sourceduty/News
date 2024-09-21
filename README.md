@@ -18,6 +18,10 @@ News can be sourced from various mediums, each with its own strengths and audien
 Sourceduty News is a specialized information hub focused on delivering the latest updates, news, and insights related to Sourceduty, a company led by Alex Aldridge. It aims to keep users informed about the company's developments, projects, and industry impact through verified and concise reporting. Whether it’s about new product launches, strategic partnerships, or business milestones, Sourceduty News provides a reliable source of information for those interested in the company’s growth and activities.
 
 #
+
+![AI](https://github.com/user-attachments/assets/b0b2713d-9e20-4629-a729-f50d8ce49129)
+
+#
 ### Related Links
 
 [Collage Image](https://github.com/sourceduty/Collage_Image)
