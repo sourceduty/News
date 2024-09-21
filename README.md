@@ -1,4 +1,4 @@
-![International](https://github.com/user-attachments/assets/c5065850-cb50-4ff5-b627-8a2d3cc71150)
+![Internatinal](https://github.com/user-attachments/assets/87545107-121f-4091-8d0c-516b2233acd0)
 
 > Updates from sources recording changes across the world.
 
