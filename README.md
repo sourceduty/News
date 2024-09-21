@@ -24,7 +24,7 @@ Sourceduty News is a specialized information hub focused on delivering the lates
 <br>
 [Terrorism](https://github.com/sourceduty/Terrorism)
 <br>
-[Donal Trump Shooting](https://github.com/sourceduty/Donald_Trump_Shooting)
+[Donald Trump Shooting](https://github.com/sourceduty/Donald_Trump_Shooting)
 <br>
 [Soureduty News](https://github.com/sourceduty/Sourceduty_News)
 <br>
