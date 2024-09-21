@@ -59,6 +59,8 @@ Sourceduty News is a specialized information hub focused on delivering the lates
 [Company News](https://github.com/sourceduty/Company_News)
 <br>
 [My News Report](https://github.com/sourceduty/My_News_Report)
+<br>
+[Communication](https://github.com/sourceduty/Communication)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
