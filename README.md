@@ -44,10 +44,6 @@ Sourceduty News is a specialized information hub focused on delivering the lates
 ![AI](https://github.com/user-attachments/assets/b0b2713d-9e20-4629-a729-f50d8ce49129)
 
 #
-
-![Hughes](https://github.com/user-attachments/assets/564ae254-76ff-4659-9c91-d7c71c383377)
-
-#
 ### Related Links
 
 [Collage Image](https://github.com/sourceduty/Collage_Image)
