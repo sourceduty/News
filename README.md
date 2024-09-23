@@ -101,7 +101,7 @@ Sourceduty News is a specialized information hub focused on delivering the lates
 <br>
 [Donald Trump Shooting](https://github.com/sourceduty/Donald_Trump_Shooting)
 <br>
-[Soureduty News](https://github.com/sourceduty/Sourceduty_News)
+[Sourceduty News](https://github.com/sourceduty/Sourceduty_News)
 <br>
 [Fake Information Purifier](https://github.com/sourceduty/Fake_Information_Purifier)
 <br>
