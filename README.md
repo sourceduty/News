@@ -40,6 +40,17 @@ Monday news often focuses on recapping events from the weekend, including local 
 Friday, on the other hand, is an ideal day for summarizing the week's most important stories. With the weekend approaching, audiences are typically looking for a concise wrap-up of key events and insights. News outlets often feature weekly reviews, editorials, and in-depth analysis segments that provide a reflective look at the week's developments. This makes Friday better suited for concentrating summarized news stories, offering a cohesive narrative and context that helps the audience understand the broader implications of the week's events before transitioning into the weekend.
 
 #
+### Sourcing News
+
+![Source](https://github.com/user-attachments/assets/347c6f4f-36aa-482e-a0bd-1070552bdd43)
+
+News companies obtain stories through a combination of direct reporting, press releases, and social media monitoring, all while safeguarding their national security interests. Journalists often have designated beats, such as politics or defense, where they establish trusted relationships with sources and attend events to gather information firsthand. However, they must be vigilant to protect the confidentiality of sensitive sources and avoid becoming targets of surveillance or cyber-attacks. News organizations also receive press releases from companies and government agencies, but they must verify the accuracy and integrity of this information, especially if it relates to national security issues, to avoid the risk of misinformation.
+
+Social media has become a crucial tool for news gathering but also poses significant security challenges. Journalists use platforms like Twitter and Facebook to track trending topics and breaking news, but they must be cautious of disinformation campaigns and the potential for state-sponsored cyber-attacks aimed at disrupting their operations or spreading false narratives. Additionally, social media can be a double-edged sword; while it helps journalists verify events and connect with sources, it also exposes them and their organizations to risks such as phishing attacks or the leaking of sensitive communications.
+
+News companies often reference stories reported by other media outlets, especially when they lack resources to cover a story independently. However, this practice requires careful consideration of national security implications, particularly when reporting on issues involving intelligence agencies or classified information. When one outlet breaks a significant story, others may cite it while conducting their own investigations to add new perspectives. During this process, news organizations must ensure that they do not inadvertently reveal sensitive information that could compromise national security or endanger their own operations.
+
+#
 ### News Security
 
 ![International](https://github.com/user-attachments/assets/1ebb7bda-a0e6-491b-aeb9-f35e47bc4e93)
