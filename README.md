@@ -112,6 +112,8 @@ Sourceduty News is a specialized information hub focused on delivering the lates
 [Communication](https://github.com/sourceduty/Communication)
 <br>
 [RSS Automation](https://github.com/sourceduty/RSS_Automation)
+<br>
+[Deceptive Business](https://github.com/sourceduty/Deceptive_Business)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
