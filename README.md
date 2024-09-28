@@ -1,4 +1,4 @@
-![International](https://github.com/user-attachments/assets/896f301a-511b-4fc2-8195-064bb7a4cec9)
+![The News](https://github.com/user-attachments/assets/acc0f166-2aec-4e09-a389-113d105fb028)
 
 > Updates from sources recording changes across the world.
 
@@ -12,6 +12,8 @@ News can be sourced from various mediums, each with its own strengths and audien
 
 #
 ### News-Time Aggregation
+
+![International](https://github.com/user-attachments/assets/896f301a-511b-4fc2-8195-064bb7a4cec9)
 
 News scheduling should consider the scope and relevance of the information for its intended audience. Locally, news can focus on community events, public services, and issues directly affecting residents. This content is often broadcast during peak hours, such as mornings and evenings, to reach the maximum number of viewers. National news typically covers broader topics like politics, economic developments, and major incidents across the country. It is often scheduled in dedicated slots throughout the day, with more in-depth analysis during prime time. Global news tends to be more selective, highlighting major international events and geopolitical issues that have a wider impact, often in late-night or early-morning slots to accommodate different time zones.
 
